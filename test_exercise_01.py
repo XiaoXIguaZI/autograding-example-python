@@ -6,4 +6,5 @@ def test_hello():
     Write a function `hello.hello_world`
     that returns the string "Hello, World!"
     """
+    hello.hello_world
     assert hello.hello_world() == "Hello, World!"
